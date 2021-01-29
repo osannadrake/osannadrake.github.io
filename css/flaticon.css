@@ -23,7 +23,7 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
@@ -36,6 +36,8 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-layers:before { content: "\f100"; }
-.flaticon-compass-symbol:before { content: "\f101"; }
-.flaticon-idea:before { content: "\f102"; }
+.flaticon-layers:before { content: "\65"; }
+.flaticon-compass-symbol:before { content: "\64"; }
+.flaticon-idea:before { content: "\66"; }
+.flaticon-system:before {  content: "\61";}
+

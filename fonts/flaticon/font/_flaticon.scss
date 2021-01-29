@@ -36,10 +36,10 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-layers:before { content: "\f100"; }
-.flaticon-compass-symbol:before { content: "\f101"; }
-.flaticon-idea:before { content: "\f102"; }
+    .flaticon-leaf:before { content: "\f100"; }
+.flaticon-user:before { content: "\f101"; }
+.flaticon-connectdevelop:before { content: "\f102"; }
     
-    $font-Flaticon-layers: "\f100";
-    $font-Flaticon-compass-symbol: "\f101";
-    $font-Flaticon-idea: "\f102";
+    $font-flaticon-leaf: "\f100";
+    $font-Flaticon-user: "\f101";
+    $font-Flaticon-connectdevelop: "\f102";
