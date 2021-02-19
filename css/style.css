@@ -8722,7 +8722,7 @@ h1, h2, h3, h4, h5,
   -ms-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   .staff .img {
-    height: 500px;
+    height: 400px;
     background-position: top center; }
   .staff .text {
     background: #fff;
