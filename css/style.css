@@ -8883,6 +8883,11 @@ textarea.form-control {
   padding: 7em 0;
   position: relative; }
 
+.ftco-section1 {
+  padding-top: 7em;
+  padding-bottom: 1em;
+  position: relative; }
+
 .ftco-no-pt {
   padding-top: 0; }
 
